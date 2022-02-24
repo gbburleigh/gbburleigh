@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **grahamburleigh2022@u.northwestern.edu**
 
-- 📄 Know about my experiences [https://github.com/gbburleigh](https://github.com/gbburleigh)
+- 📄 Know about my experiences [https://github.com/gbburleigh](https://github.com/gbburleigh/Resume)
 
 - ⚡ Fun fact **I attended the McCormick School of Engineering**
 
