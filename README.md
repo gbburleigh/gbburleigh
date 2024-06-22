@@ -4,19 +4,19 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
 
 <div align="center">
   
-  [![Graham’s github stats](https://github-readme-stats.vercel.app/api?username=gbburleigh)](https://github.com/gbburleigh)
+  <div style="display:inline-block">[![Graham’s github stats](https://github-readme-stats.vercel.app/api?username=gbburleigh)](https://github.com/gbburleigh)</div>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbburleigh&layout=compact)](https://github.com/gbburleigh)
+  <div style="display:inline-block">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbburleigh&layout=compact)](https://github.com/gbburleigh)</div>
 </div>
 
 <h2>Get in Touch</h2>
 
 <div align="center">
-  <a href=”https://www.linkedin.com/in/gbburleigh/" style="display:inline-block">
+  <a href=”https://www.linkedin.com/in/gbburleigh/" style="display: inline-block">
     <img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg"/>
   </a>
   
-  <a href="mailto:gbburleigh6@gmail.com" style="display:inline-block">
+  <a href="mailto:gbburleigh6@gmail.com" style="display: inline-block">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
