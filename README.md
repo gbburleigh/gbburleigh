@@ -2,6 +2,8 @@
 
 Fullstack Developer with a focus on payments, cybersecurity, web development, and architecture design. Passionate about improving UX, optimizing complex systems, fortifying security, and creating cutting-edge products. Reach out to discuss anything fintech, webdev, and security!
 
+<h2>My Work Lately</h2>
+
 <div align="center" style="display: flex">
   
   <div style="">
@@ -16,7 +18,7 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
 
 <div align="center">
   <a href=”https://www.linkedin.com/in/gbburleigh/">
-    <img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg"/>
+    <img align=”left” src=”https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/>
   </a>
   
   <a href="mailto:gbburleigh6@gmail.com">
