@@ -18,7 +18,7 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
 
 <div align="center">
   <a href=”https://www.linkedin.com/in/gbburleigh/">
-    <img align=”left” src=”https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/>
+    <img src=”https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/>
   </a>
   
   <a href="mailto:gbburleigh6@gmail.com">
