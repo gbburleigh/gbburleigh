@@ -4,15 +4,17 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
 
 <h2>My Work Lately</h2>
 
-<div align="center">
-  
-  <div style="float:left">
-    <img src="https://github-readme-stats.vercel.app/api?username=gbburleigh&show_icons=true" />
-  </div>
-  
-  <div style="float:left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbburleigh&layout=compact"/>
-  </div>
+<div id="image-table" align="center">
+    <table>
+        <tr>
+            <td style="padding:10px">
+                <img src="https://github-readme-stats.vercel.app/api?username=gbburleigh&show_icons=true" />
+            </td>
+            <td style="padding:10px">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbburleigh&layout=compact"/>
+            </td>
+        </tr>
+    </table>
 </div>
 
 <h2>Get in Touch</h2>
