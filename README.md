@@ -19,6 +19,8 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
 
 <h2>Get in Touch</h2>
 
+<p>I'm always looking for new and interesting opportunities to dive into. If you'd like to get in touch, connect with me on LinkedIn or shoot me an email!</p>
+
 <div align="center" style="display: flex;justify-content:space-between; width:50%">
   
   <a href="https://www.linkedin.com/in/gbburleigh/">
@@ -31,6 +33,8 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
 </div>
 
 <h2>Technologies</h1>
+
+I have experience working with a multitude of different tech stacks and disciplines. Always happy to share my knowledge with others!
 
 <div align="center">
   <table style="border:none">
