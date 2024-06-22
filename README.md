@@ -2,12 +2,12 @@
 
 Fullstack Developer with a focus on payments, cybersecurity, web development, and architecture design. Passionate about improving UX, optimizing complex systems, fortifying security, and creating cutting-edge products. Reach out to discuss anything fintech, webdev, and security!
 
-<div align="center">
+<div align="center" style="display: flex">
   
-  <div style="display:inline-block">
+  <div style="">
     <img src="https://github-readme-stats.vercel.app/api?username=gbburleigh&show_icons=true" />
   </div>
-  <div style="display:inline-block">
+  <div style="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbburleigh&layout=compact"/>
   </div>
 </div>
