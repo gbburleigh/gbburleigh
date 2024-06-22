@@ -4,13 +4,13 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
 
 <h2>My Work Lately</h2>
 
-<div align="center" style="display: flex">
+<div align="center">
   
-  <div style="">
+  <div style="float:left">
     <img src="https://github-readme-stats.vercel.app/api?username=gbburleigh&show_icons=true" />
   </div>
   
-  <div style="">
+  <div style="float:left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbburleigh&layout=compact"/>
   </div>
 </div>
