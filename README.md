@@ -32,7 +32,7 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
     </tr>
     <tr>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50"></td>
-      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgresql-dark.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/sqllite.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/knexjs-dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/yaml-dark.svg" width="50"></td>
