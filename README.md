@@ -25,7 +25,7 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
 
 <div align="center">
   <table style="border:none">
-    <tr>
+    <tr style="border:none">
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="50"></td>
@@ -33,7 +33,7 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/cs-dark.svg" width="50"></td>
     </tr>
-    <tr>
+    <tr style="border:none">
       <td><img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-dark.svg" width="50"></td>
@@ -41,7 +41,7 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vuejs-dark.svg" width="50"></td>
     </tr>
-    <tr>
+    <tr style="border:none">
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/datadog-dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/aws-dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></td>
@@ -49,7 +49,7 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jestjs-dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-dark.svg" width="50"></td>
     </tr>
-    <tr>
+    <tr style="border:none">
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/sqllite.svg" width="50"></td>
