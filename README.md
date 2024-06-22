@@ -12,8 +12,13 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
 <h2>Get in Touch</h2>
 
 <div align="center">
-  <a href=”https://www.linkedin.com/in/gbburleigh/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg"/></a>
-  <a href="mailto:gbburleigh6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href=”https://www.linkedin.com/in/gbburleigh/" style="display:inline-block">
+    <img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg"/>
+  </a>
+  
+  <a href="mailto:gbburleigh6@gmail.com" style="display:inline-block">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 <h2>Technologies</h1>
