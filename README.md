@@ -3,11 +3,12 @@
 Fullstack Developer with a focus on payments, cybersecurity, web development, and architecture design. Passionate about improving UX, optimizing complex systems, fortifying security, and creating cutting-edge products. Reach out to discuss anything fintech, webdev, and security!
 
 <div align="center">
-  [![Graham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbburleigh)](https://github.com/anuraghazra/github-readme-stats)]
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbburleigh&layout=compact)](https://github.com/gbburleigh)]
+  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=gbburleigh)](https://github.com/gbburleigh)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbburleigh&layout=compact)](https://github.com/gbburleigh)
 </div>
 
-<h2>My Links</h2>
+<h2>Get in Touch</h2>
 
 <div align="center">
   <a href=”https://www.linkedin.com/in/gbburleigh/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg"/></a>
