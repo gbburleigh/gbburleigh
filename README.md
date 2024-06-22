@@ -2,6 +2,9 @@
 
 Fullstack Developer with a focus on payments, cybersecurity, web development, and architecture design. Passionate about improving UX, optimizing complex systems, fortifying security, and creating cutting-edge products. Reach out to discuss anything fintech, webdev, and security!
 
+[![Graham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbburleigh)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h2>My Links</h2>
 
 <h2>Technologies</h1>
