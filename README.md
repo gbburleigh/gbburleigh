@@ -34,7 +34,7 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
 
 <h2>Technologies</h1>
 
-I have experience working with a multitude of different tech stacks and disciplines. Always happy to share my knowledge with others!
+<p>I have experience working with a multitude of different tech stacks and disciplines. Whether it be coding in different languages, performing DevOps tasks, or CICD monitoring, I'm always trying to stay up to date with current trends and usecases. Always happy to share my knowledge with others!</p>
 
 <div align="center">
   <table style="border:none">
@@ -74,6 +74,8 @@ I have experience working with a multitude of different tech stacks and discipli
 </div>
 
 <h2>I'm Currently Learning</h2>
+
+<p>I'm always trying to add new tools and technologies to my skillset. Here are some of the languages and frameworks I'm working on mastering at the moment. More projects to come with these soon!</p>
 
 <div align="center">
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/php.svg" width="50"></a>
