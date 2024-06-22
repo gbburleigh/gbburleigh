@@ -1,8 +1,10 @@
 <p align="center"> <img src="./github-header-image.png" alt="gbburleigh" /> </p>
 
-Fullstack Developer with a focus on payments, cybersecurity, web development, and architecture design.
+Fullstack Developer with a focus on payments, cybersecurity, web development, and architecture design. Passionate about improving UX, optimizing complex systems, fortifying security, and creating cutting-edge products. Reach out to discuss anything fintech, webdev, and security!
 
-<h1>Technologies</h1>
+<h2>My Links</h2>
+
+<h2>Technologies</h1>
 
 <div align="center">
   <table>
@@ -15,7 +17,7 @@ Fullstack Developer with a focus on payments, cybersecurity, web development, an
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/cs-dark.svg" width="50"></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/express.svg" width="50"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-dark.svg" width="50"></td>
       <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-dark.svg" width="50"></td>
