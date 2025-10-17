@@ -1,6 +1,6 @@
 <p align="center"> <img src="./github-header-image.png" alt="gbburleigh" /> </p>
 
-Fullstack Developer with a focus on payments, cybersecurity, web development, and architecture design. Passionate about improving UX, optimizing complex systems, fortifying security, and creating cutting-edge products. Reach out to discuss anything fintech, webdev, and security!
+Fullstack Developer with a focus on payments, cybersecurity, web development, and architecture design.
 
 <h2>My Work Lately</h2>
 
