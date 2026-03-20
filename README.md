@@ -26,7 +26,3 @@ Chicago, IL
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gbburleigh/)
-
----
-
-*Building the future of payments, one commit at a time.*
